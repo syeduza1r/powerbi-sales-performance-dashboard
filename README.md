@@ -128,4 +128,18 @@ Assuming a **star schema**:
   - Encourage bulk purchases  
   - Balance monthly sales via consistent outreach
 
----
+--
+![Screenshot 2025-05-30 235411](https://github.com/user-attachments/assets/5d65e9d3-579e-42f1-b675-9e4b0cb485ba)
+
+--
+![Screenshot 2025-04-28 211717](https://github.com/user-attachments/assets/440f4625-c78a-4a4e-ba76-35e4bf52c771)
+
+--
+![Screenshot 2025-04-28 211744](https://github.com/user-attachments/assets/c4d746ef-171b-46a0-9946-16820451eb80)
+
+--
+![Screenshot 2025-04-28 211810](https://github.com/user-attachments/assets/0ed00255-faf3-4f8f-a065-57180962c23e)
+
+--
+
+
