@@ -6,6 +6,9 @@ This Power BI project delivers an interactive dashboard and actionable KPI insig
 
 ---
 
+## 📁 Files Included
+- `dashboard.pbix` – Full Power BI file
+
 ## 🛠️ 1. Data Cleaning & Preparation (Power Query Editor)
 
 ### ✅ Step 1: Remove Blank Records  
